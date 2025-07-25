@@ -43,7 +43,7 @@ Alongside hospital work, I practice at my private clinic through **Easymycare**,
 
 ### 📫 Let's Connect
 
-- 🌐 [Easymycare](http://www.easymycareclinic.com)  
+- 🌐[EasyMyCare] https://easymycareclinic.com/ 
 - 💼 [LinkedIn](https://www.linkedin.com/in/drshivesh)  
 - 📬 Reach out for collaboration on clinical-AI projects, digital health tools, or joint ventures in AI education.
 
